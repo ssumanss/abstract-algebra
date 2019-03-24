@@ -1,4 +1,4 @@
-site_name: Complex Analysis
+site_name: Abstract Algebra
 nav: 
   - Home: index.md
   - Fundamentsls: 
@@ -16,8 +16,8 @@ theme:
   name: 'material'
 
   palette:
-    primary: 'teal'
-    accent: 'teal'  
+    primary: 'indigo'
+    accent: 'indigo'  
 
   font:
     text: 'Ubuntu'
@@ -42,4 +42,4 @@ extra_css:
 
 
 # Copyright
-copyright: 'Copyright &copy; 2016 - 2019 Sandeep Suman'
+copyright: 'Copyright &copy; 2016 - 2019 <a href="https://sandeepsuman.com">Sandeep Suman</a>'
