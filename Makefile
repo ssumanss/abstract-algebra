@@ -2,6 +2,9 @@ start:
 	git pull
 	jupyter lab
 
+serve:
+	mkdocs serve
+
 publish:
 	mkdocs gh-deploy --clean --verbose
 

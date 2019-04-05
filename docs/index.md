@@ -8,30 +8,28 @@ This course presumes the knowledge of groups, ring, field and some knowledge of 
 
 ## Syllabus
 
-    - Group action and Sylow theorem
-    - Series of subgroups
-    - Integral Domains
-    - Extension Fieds
-    - Modules
-    - Insolvability of equation
+- Group action and Sylow theorem
+- Series of subgroups
+- Integral Domains
+- Extension Fieds
+- Modules
+- Insolvability of equation
     
 ## Objectives
 
-    - Application of Group Action
-        * Use it solve sylow theorems
-    - Application of Sylow Theorem to study small groups
-    - PID and ED
-    - Understand different kinds of field extension
-    - Studying Modules
-    - To know that why equation of degree can't have a formula for roots
+- Application of Group Action
+    + Use it prove sylow theorems
+- Application of Sylow Theorem to study small groups
+- PID and ED
+- Understand different kinds of field extension
+- Studying Modules
+- To know that why equation of degree can't have a formula for roots
     
 ## Instructor 
 
 Sandeep Suman, Assistant Professor, University Department of Mathematics
 
 ## Refrence
-    
-    - 
 
 
     
