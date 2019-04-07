@@ -1,7 +1,7 @@
 site_name: Abstract Algebra
 nav: 
   - Home: index.md
-  - Assigments: assignment.md
+  - Assignments: assignment.md
   - Exam: exam.md
 
 plugins:
