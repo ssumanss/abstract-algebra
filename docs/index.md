@@ -37,7 +37,7 @@ This course presumes the knowledge of groups, ring, field and some knowledge of 
 | FRI     	| AA         	|           	|            	|            	|            	|            	|
 | SAT     	| AA         	|           	|            	|            	|            	|            	|
     
-## Refrence
+## Reference
 
 ## Instructor 
 
