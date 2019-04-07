@@ -1,13 +1,8 @@
 site_name: Abstract Algebra
 nav: 
   - Home: index.md
-  - Fundamentsls: 
-    - 'Definition': 'Introduction.ipynb'
-    - 'Plotting': 'Plotting.ipynb'
-    - 'Function': 'Function.ipynb'
-  - Integration:
-    - 'Definition': 'Integration.ipynb'
   - Assigments: assignment.md
+  - Exam: exam.md
 
 plugins:
   - search
