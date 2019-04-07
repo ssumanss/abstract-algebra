@@ -24,12 +24,24 @@ This course presumes the knowledge of groups, ring, field and some knowledge of 
 - Understand different kinds of field extension
 - Studying Modules
 - To know that why equation of degree can't have a formula for roots
+
+
+## Routine
+
+| Weekday 	| 1st Period 	| 2nd Period 	| 3rd Period 	| 4th Period 	| 5th Period 	| 6th Period 	|
+|---------	|------------	|------------	|------------	|------------	|------------	|------------	|
+| MON     	|            	| AA         	|            	|            	|            	|            	|
+| TUE     	|            	| AA         	|           	|            	|            	|            	|
+| WED     	|            	|            	| AA          	|            	|            	|            	|
+| THR     	|           	|            	| AA         	|            	|            	|            	|
+| FRI     	| AA         	|           	|            	|            	|            	|            	|
+| SAT     	| AA         	|           	|            	|            	|            	|            	|
     
+## Refrence
+
 ## Instructor 
 
 Sandeep Suman, Assistant Professor, University Department of Mathematics
-
-## Refrence
 
 
     
