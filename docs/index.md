@@ -1,10 +1,10 @@
 # Welcome to Abstract Algebra Course
 
-This website dedicated for Abstract Algebra taught in sememster I for the course of MA/MSc in Mathematics in TMBU, Bhagalpur.
+This webpage is dedicated to the course of ==Abstract Algebra== taught in sememster I for the degree of MA/MSc in Mathematics in TMBU, Bhagalpur.
 
 ## Prequesite 
 
-This course presumes the knowledge of groups, ring, field and some knowledge of vector space is also needed.
+This course presumes the introductry knowledge of groups, rings and fields. Some knowledge of vector space is always helpful.
 
 ## Syllabus
 
@@ -18,7 +18,7 @@ This course presumes the knowledge of groups, ring, field and some knowledge of 
 ## Objectives
 
 - Application of Group Action
-    + Use it prove sylow theorems
+    + Use it to prove sylow theorems
 - Application of Sylow Theorem to study small groups
 - PID and ED
 - Understand different kinds of field extension
