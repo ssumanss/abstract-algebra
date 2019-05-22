@@ -10,7 +10,7 @@ plugins:
 
 theme:
   name: 'material'
-  custom_dir: 'theme'
+  custom_dir: 'theme' # add theme folder in the root of the project
 
   palette:
     primary: 'indigo'
