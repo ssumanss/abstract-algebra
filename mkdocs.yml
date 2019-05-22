@@ -1,12 +1,8 @@
 site_name: Abstract Algebra
 nav: 
   - Home: index.md
-  - Fundamentsls: 
-    - 'Definition': 'Introduction.ipynb'
-    - 'Plotting': 'Plotting.ipynb'
-    - 'Function': 'Function.ipynb'
-  - Integration:
-    - 'Definition': 'Integration.ipynb'
+  - Assignments: assignment.md
+  - Exam: exam.md
 
 plugins:
   - search
@@ -25,7 +21,22 @@ theme:
     code: 'Ubuntu Mono'
 
 markdown_extensions:
-  - admonition
+  # - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
 
   - mdx_math: # pip install python-markdown-math
       enable_dollar_delimiter: true
