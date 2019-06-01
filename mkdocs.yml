@@ -1,4 +1,7 @@
 site_name: Abstract Algebra
+site_description: 'This webpage is dedicated to the course of Abstract Algebra taught in sememster I for the degree of MA/MSc in Mathematics in TMBU, Bhagalpur.'
+site_author: 'Sandeep Suman'
+site_url: 'https://sandeepsuman.com/abstract-algebra'
 nav: 
   - Home: index.md
   - Assignments: assignment.md
@@ -19,6 +22,8 @@ theme:
   font:
     text: 'Ubuntu'
     code: 'Ubuntu Mono'
+
+  favicon: 'static/images/favicon.ico'
 
 markdown_extensions:
   # - pymdownx.arithmatex
@@ -44,14 +49,20 @@ markdown_extensions:
   - codehilite:
       guess_lang: false
   - toc:
-      permalink: true    
+      permalink: true 
+  - meta       
 
 extra_javascript:
   - 'https://cdn.bootcss.com/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'
+  # - 'static/js/cache-polyfill.js'
+  - 'static/js/app.js'
 
 extra_css: 
-  - 'stylesheets/extra.css' # depends on theme
+  - 'static/stylesheets/extra.css' # depends on theme
 
 
 # Copyright
 copyright: 'Copyright &copy; 2016 - 2019 <a href="https://sandeepsuman.com">Sandeep Suman</a>'
+
+extra:
+  manifest: 'manifest.webmanifest'
