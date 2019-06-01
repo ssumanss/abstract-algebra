@@ -90,11 +90,11 @@ self.addEventListener('install', function(e) {
     e.waitUntil(
       caches.open('algebra').then(function(cache) {
         return cache.addAll([
-          '/abstract-algebra/',
-          '/abstract-algebra/index.html',
-          '/abstract-algebra/index.html?homescreen=1',
-          '/abstract-algebra/?homescreen=1',
-          '/abstract-algebra/assets/fonts/specimen/MaterialIcons-Regular.woff2'
+          './',
+          './index.html',
+          './index.html?homescreen=1',
+          './?homescreen=1',
+          './assets/fonts/specimen/MaterialIcons-Regular.woff2'
         ]);
       })
     );
