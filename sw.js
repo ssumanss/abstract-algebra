@@ -1,3 +1,4 @@
+// chache-polyfill.js 
 (function() {
   var nativeAddAll = Cache.prototype.addAll;
   var userAgent = navigator.userAgent.match(/(Firefox|Chrome)\/(\d+\.)/);
@@ -85,7 +86,7 @@
   };
 }());
 
-
+// service worker function
 self.addEventListener('install', function(e) {
     e.waitUntil(
       caches.open('algebra').then(function(cache) {
